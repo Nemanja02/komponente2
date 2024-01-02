@@ -1,0 +1,22 @@
+# Gradle
+**/build/
+**/.gradle/
+!**/build/libs/*.jar  # Un-ignore jar files in any build/libs directory
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+
+# VSCode
+.vscode/
+
+# Node.js
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
