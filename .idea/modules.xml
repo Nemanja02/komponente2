@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gateway/gateway.iml" filepath="$PROJECT_DIR$/Gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/komp.iml" filepath="$PROJECT_DIR$/.idea/komp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationService/rest-demo.iml" filepath="$PROJECT_DIR$/NotificationService/rest-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servis1/servis1.iml" filepath="$PROJECT_DIR$/servis1/servis1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servis2/servis2.iml" filepath="$PROJECT_DIR$/servis2/servis2.iml" />
+    </modules>
+  </component>
+</project>
