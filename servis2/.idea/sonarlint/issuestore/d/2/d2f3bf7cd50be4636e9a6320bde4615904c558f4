@@ -1,0 +1,13 @@
+
+¬
+java:S4449 "ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(÷Ö©øÿÿÿÿ8ëø²ÒÌ1
+¬
+java:S4449˜"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(÷Ö©øÿÿÿÿ8ëø²ÒÌ1
+d
+java:S1128"BRemove this unused import 'com.komponente.servis2.dto.BookingDto'.(ê¦øŸÿÿÿÿÿ8¶ÙµÒÌ1
+l
+java:S1128"JRemove this unused import 'com.komponente.servis2.security.CheckSecurity'.(ùşçøÿÿÿÿ8¶ÙµÒÌ1
+T
+java:S1128"7Remove this unused import 'io.swagger.annotations.Api'.(·¦°Î8¶ÙµÒÌ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8¶ÙµÒÌ1

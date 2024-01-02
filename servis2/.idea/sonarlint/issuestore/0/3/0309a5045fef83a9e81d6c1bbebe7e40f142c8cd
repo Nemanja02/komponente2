@@ -1,0 +1,41 @@
+
+h	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(„®ãüÿÿÿÿ8–ğöØÌ1
+y
+java:S1192¤"[Define a constant instead of duplicating this literal "Training session not found" 5 times.(êŞ¸ì8—ğöØÌ1
+h
+java:S1192"JDefine a constant instead of duplicating this literal "ROLE_USER" 3 times.(ÜƒèË8ÖÓøØÌ1
+u
+java:S1192W"XDefine a constant instead of duplicating this literal "Training type not found" 5 times.(±»‚œ8—ğöØÌ1
+}
+java:S1192‡"_Define a constant instead of duplicating this literal "Email service is not available" 3 times.(èÕëÃ8×ÓøØÌ1
+h
+java:S2259€"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(Ÿ–şÜ8×ôöØÌ1
+h
+java:S2259¿"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(Ÿ–şÜ8³ÚøØÌ1
+h
+java:S2259 "JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(Ÿ–şÜ8×ôöØÌ1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(½©âşüÿÿÿÿ8ÛôöØÌ1
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ı¸—¤8ÜôöØÌ1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ı¸—¤8ÜôöØÌ1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Øİæ”8İôöØÌ1
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(Øİæ”8İôöØÌ1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ìÒğ¶üÿÿÿÿ8İôöØÌ1
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(¯««‰8ŞôöØÌ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØı÷üÿÿÿÿ8àôöØÌ1
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(Àğë”8àôöØÌ1
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(¼î—Ëúÿÿÿÿ8àôöØÌ1
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(¼î—Ëúÿÿÿÿ8àôöØÌ1
+[	java:S106È"9Replace this use of System.out or System.err by a logger.(ãÈû½ûÿÿÿÿ8ãôöØÌ1
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(¡›…°8äôöØÌ1
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8çôöØÌ1
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(èÕëÃ8çôöØÌ1
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ÓÃ›øûÿÿÿÿ8çôöØÌ1
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8èôöØÌ1
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(èÕëÃ8èôöØÌ1
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(™½ş†ûÿÿÿÿ8éôöØÌ1
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8ÔÚøØÌ1
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(èÕëÃ8ÔÚøØÌ1
+e
+java:S1128"HRemove this unused import 'com.komponente.servis2.mapper.PricingMapper'.(Šš«¡8Ñü÷ØÌ1
+M
+java:S1128$"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ñü÷ØÌ1

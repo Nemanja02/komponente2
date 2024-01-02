@@ -1,0 +1,13 @@
+
+Q
+java:S1066."/Merge this if statement with the enclosing one.(á™¡ÿÿÿÿÿ8˜Ù¿åË1
+t
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¥Öº²şÿÿÿÿ8‘ÀåË1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8“ÀåË1
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(€Ë²:8”ÀåË1
+j
+java:S5738F"HRemove this call to a deprecated method, it has been marked for removal.(Á¸åÀùÿÿÿÿ8–ÀåË1
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ùşçøÿÿÿÿ8ıŒĞåË1
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÓÂøµùÿÿÿÿ8ıŒĞåË1

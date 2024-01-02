@@ -1,0 +1,52 @@
+
+b	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(À¼×8ÛÂœİÌ1
+a	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(‚ÊÎt8¹…ÀİÌ1
+h	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(æÆÉ¡úÿÿÿÿ8¹…ÀİÌ1
+c	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(À¼×8¹…ÀİÌ1
+b	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(‚ÊÎt8ÂÇÀİÌ1
+h	java:S112ê"FDefine and throw a dedicated exception instead of using a generic one.(æÆÉ¡úÿÿÿÿ8ÂÇÀİÌ1
+b	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(‚ÊÎt8ÂÇÀİÌ1
+g
+java:S1192`"JDefine a constant instead of duplicating this literal "ROLE_USER" 3 times.(ÜƒèË8œİÂİÌ1
+o
+java:S1192r"MDefine a constant instead of duplicating this literal "ROLE_MANAGER" 3 times.(üŒ†Îıÿÿÿÿ8İÂİÌ1
+p
+java:S1192L"TDefine a constant instead of duplicating this literal "Session is canceled" 3 times.(‚ÊÎt8ÃÇÀİÌ1
+|
+java:S1192f"_Define a constant instead of duplicating this literal "Email service is not available" 6 times.(èÕëÃ8ÜÂœİÌ1
+
+java:S1192‚"^Define a constant instead of duplicating this literal "User service is not available" 3 times.(ÓÃ›øûÿÿÿÿ8İÂİÌ1
+l
+java:S2259q"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(ÓŸŞøÿÿÿÿ8àÂİÌ1
+m
+java:S2259Ò"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(Å¨ÉŠùÿÿÿÿ8ÔÄœİÌ1
+m
+java:S2259"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(ÓŸŞøÿÿÿÿ8ÔÄœİÌ1
+m
+java:S2259»"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(Å¨ÉŠùÿÿÿÿ8ÔÄœİÌ1
+m
+java:S2259ı"JA "NullPointerException" could be thrown; "emailTypeDto" is nullable here.(ÓŸŞøÿÿÿÿ8ÔÄœİÌ1
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8ŞÄœİÌ1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(èÕëÃ8ŞÄœİÌ1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8àÄœİÌ1
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(èÕëÃ8àÄœİÌ1
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÓÃ›øûÿÿÿÿ8àÄœİÌ1
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8âÄœİÌ1
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(èÕëÃ8ãÄœİÌ1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8äÄœİÌ1
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(èÕëÃ8äÄœİÌ1
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(ÓÃ›øûÿÿÿÿ8åÄœİÌ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8°àÂİÌ1
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(èÕëÃ8°àÂİÌ1
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(Äß¼æÿÿÿÿÿ8²àÂİÌ1
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(èÕëÃ8²àÂİÌ1
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(ÓÃ›øûÿÿÿÿ8²àÂİÌ1
+‚
+java:S1128"`Remove this unused import 'com.komponente.servis2.client.emailservice.EmailServiceClientConfig'.(’Ÿ›Àşÿÿÿÿ8­èÅİÌ1
+d
+java:S1128
+"BRemove this unused import 'com.komponente.servis2.entity.Booking'.(èº­äûÿÿÿÿ8­èÅİÌ1
+l
+java:S1128"JRemove this unused import 'com.komponente.servis2.entity.TrainingSession'.(äÈÕàÿÿÿÿÿ8­èÅİÌ1
+r
+java:S1128"PRemove this unused import 'com.komponente.servis2.mapper.TrainingSessionMapper'.(ƒüîôıÿÿÿÿ8­èÅİÌ1

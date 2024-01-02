@@ -1,0 +1,14 @@
+
+p
+java:S1192("NDefine a constant instead of duplicating this literal "Gym not found" 3 times.(ÍØœõúÿÿÿÿ8¡ŒŞ†Ì1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(áªù­øÿÿÿÿ8ªŒŞ†Ì1
+N
+java:S1602.",Remove useless curly braces around statement(‡™µøÿÿÿÿ8¬ŒŞ†Ì1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(À‚—É8¬ŒŞ†Ì1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¿ˆƒ…şÿÿÿÿ8­ŒŞ†Ì1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(²·—É8®ŒŞ†Ì1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(é•ì›ûÿÿÿÿ8®ŒŞ†Ì1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ï©ÔŠÌ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ï©ÔŠÌ1
