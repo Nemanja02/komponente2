@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Servis 1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.komponente.servis1.RestDemoApplication" />
+    <module name="servis1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

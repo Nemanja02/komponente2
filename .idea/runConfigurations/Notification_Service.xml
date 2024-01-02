@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Notification Service" type="CompoundRunConfigurationType">
+    <toRun name="Broker" type="Application" />
+    <toRun name="Servis 3" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
